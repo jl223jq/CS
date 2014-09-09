@@ -1,0 +1,6 @@
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Switch satsen\Switch satsen\Switch satsen\bin\Debug\Switch satsen.exe.config
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Switch satsen\Switch satsen\Switch satsen\obj\Debug\Switch satsen.csprojResolveAssemblyReference.cache
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Switch satsen\Switch satsen\Switch satsen\bin\Debug\Switch satsen.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Switch satsen\Switch satsen\Switch satsen\bin\Debug\Switch satsen.pdb
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Switch satsen\Switch satsen\Switch satsen\obj\Debug\Switch satsen.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Switch satsen\Switch satsen\Switch satsen\obj\Debug\Switch satsen.pdb
